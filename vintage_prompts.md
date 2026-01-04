@@ -164,6 +164,7 @@ Steam locomotive at station platform, polished boiler, steam clouds, warm tungst
 ```
 1920s electric tram on cobblestone boulevard, brass fittings, wooden interior visible, golden-hour glow, photoreal 8k — negative: no modern trams, no people, no text/watermark. temperature:0.8
 ```
+<br>
 
 ### CITYSCAPES & INFRASTRUCTURE (16–35)
 
@@ -227,6 +228,8 @@ Old port district at sunrise, wooden piers, brick warehouses, light mist, photor
 Vintage stone bridge at twilight, riveted rails, mossed abutments, cinematic haze, photoreal 8k — negative: no modern guardrails, no people, no text/watermark. temperature:0.8
 ```
 
+<br>
+
 ### INTERIORS & LIFESTYLE (36–55)
 
 **36. Art Deco Cinema Lobby**
@@ -288,6 +291,8 @@ Mid-century photography studio, large-format camera, velvet backdrop, tungsten l
 ```
 1950s post office lobby, marble counters, brass mail slots, warm tungsten glow, cinematic depth, 8k — negative: no modern kiosks, no people, no text/watermark. temperature:0.8
 ```
+
+<br>
 
 ### EXTRA SCENES (56–60)
 
