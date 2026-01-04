@@ -35,7 +35,7 @@ When using, redistributing, adapting, or building upon this material, you **must
 
 **Example Attribution Format:**  
 - This work is based on content from the BLACXQUAD GitHub repository, available at:  
-- 
+- https://github.com/blacxquad/prompt-engineering/blob/main/vintage_prompts.md#vintage-prompts
 
 Under the CC BY-SA license, you **must also**:
 - Indicate if changes were made.
